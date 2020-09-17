@@ -1,12 +1,3 @@
-# Plotly-Challenge
-
- Interactive Dashboard to explore the Belly Button Biodiversity Dataset. 
- Deployed to belly-button-biodiversity app to Heroku: https://biodiversity-ib.herokuapp.com
- Technologies=> JavaScript, Plotly.js, Flask, SQLite, Heroku
-
-# Biodiversity_InteractveDashboard
-Interactive Dashboard to explore the Belly Button Biodiversity Dataset
-
 # Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
