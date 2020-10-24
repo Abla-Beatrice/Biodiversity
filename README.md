@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
@@ -85,9 +84,9 @@ This analysis will build an interactive dashboard to explore the [Belly Button B
 
 ## Step 1 - Plotly.js
 
-Use Plotly.js to build interactive charts for your dashboard.
+Use Plotly.js to build interactive charts for dashboard.
 
-* Create a PIE chart that uses data from your samples route (`/samples/<sample>`) to display the top 10 samples.
+* Create a PIE chart that uses data from samples route (`/samples/<sample>`) to display the top 10 samples.
 
   * Use `sample_values` as the values for the PIE chart
 
@@ -97,7 +96,7 @@ Use Plotly.js to build interactive charts for your dashboard.
 
   ![PIE Chart](Images/pie_chart.png)
 
-* Create a Bubble Chart that uses data from your samples route (`/samples/<sample>`) to display each sample.
+* Create a Bubble Chart that uses data from samples route (`/samples/<sample>`) to display each sample.
 
   * Use `otu_ids` for the x values
 
@@ -120,7 +119,7 @@ Use Plotly.js to build interactive charts for your dashboard.
 
 ## Step 2 - Heroku
 
-Deploy your Flask app to Heroku.
+Deploy Flask app to Heroku.
 
 * Use the provided sqlite file for the database.
 
@@ -128,9 +127,6 @@ Deploy your Flask app to Heroku.
 
 ## Flask API
 
-Use Flask API starter code to serve the data needed for your plots.
+Flask API starter code to serve the data needed for your plots.
 
 * Test routes by visiting each one in the browser.
-
-- - -
->>>>>>> 676c99a5e3b67da39c96ee1def1f4adc4d6f222c
